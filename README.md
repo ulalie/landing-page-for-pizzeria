@@ -25,12 +25,8 @@ This project is a responsive landing page for TMIN, a pizzeria and bakery. Built
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ulalie/landing-page-for-pizzeria
-
-.git
-   ```
-   cd landing-page-for-pizzeria
-
+   git clone https://github.com/ulalie/landing-page-for-pizzeria.git
+   cd landing-page-for-pizzeria```
 
 2. Open `index.html` in your preferred web browser to view the landing page.
 
